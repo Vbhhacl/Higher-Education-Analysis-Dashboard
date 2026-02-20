@@ -1,0 +1,610 @@
+College Name,State,City,Region,College Type,Management,Total Courses,Student Strength,Principal Name,Principal Contact No.
+Lucknow Institute of Technology,Uttar Pradesh,Lucknow,Central,Medical,Government,13,4822,Dr. Anil Gupta,9537142226
+"Global Degree College, Ghaziabad",Uttar Pradesh,Ghaziabad,North,UG & PG,Management,25,11804,Dr. Neha Patil,9676115221
+Kathua Law College,Jammu & Kashmir,Kathua,North,Medical,Management,27,6391,Dr. Arun Singh,9470189715
+"Sri Business School, Jammu (4)",Jammu & Kashmir,Jammu,North,Arts/Science,Government,24,9485,Dr. Anil Singh,9844030105
+"Nav Institute of Management, Karol Bagh",New Delhi,Karol Bagh,North,Law,Management,31,5593,Dr. Geeta Yadav,9749739025
+Saket Institute of Management (6),New Delhi,Saket,North,MBA,Management,5,2001,Dr. Ramesh Dar,9464551895
+"Maha College of Arts & Science, Pitampura",New Delhi,Pitampura,North,Engineering,Private,30,6143,Dr. Vikram Singh,9649099141
+"National Medical Academy, Ghaziabad",Uttar Pradesh,Ghaziabad,Central,Diploma,Government,34,1040,Dr. Suresh Bhat,9787913471
+"Royal Institute of Technology, Janakpuri",New Delhi,Janakpuri,North,Medical,Management,17,6869,Dr. Neha Singh,9744543303
+Udhampur Law College,Jammu & Kashmir,Udhampur,North,Arts/Science,Government,24,5383,Dr. Anil Yadav,9630497455
+"Nav Business School, Baramulla",Jammu & Kashmir,Baramulla,North,Medical,Government,26,805,Dr. Geeta Bhat,9474043127
+Kupwara Engineering College,Jammu & Kashmir,Kupwara,North,MBA,Government,30,7430,Dr. Sanjay Kumar,9720524858
+"Royal Business School, Meerut",Uttar Pradesh,Meerut,North,UG & PG,Private,21,5992,Dr. Prakash Kumar,9632030586
+Meerut Institute of Technology,Uttar Pradesh,Meerut,Central,Medical,Government,28,9069,Dr. Amit Jain,9961744323
+Pitampura Medical Academy,New Delhi,Pitampura,North,UG & PG,Government,11,10601,Dr. Rajesh Verma,9493875609
+"Global Institute of Technology, Srinagar",Jammu & Kashmir,Srinagar,North,Diploma,Government,30,9914,Dr. Rakesh Khan,9488319314
+Prayagraj Engineering College,Uttar Pradesh,Prayagraj,East,Diploma,Management,7,7791,Dr. Rakesh Kumar,9757228721
+"Excellence Institute of Management, Aligarh",Uttar Pradesh,Aligarh,East,Engineering,Management,23,6736,Dr. Prakash Mishra,9653971831
+"Premier Engineering College, Lucknow",Uttar Pradesh,Lucknow,East,Medical,Government,9,3608,Dr. Sanjeev Dar,9780425103
+"Royal Institute of Management, Moradabad",Uttar Pradesh,Moradabad,North,Diploma,Management,19,10875,Dr. Geeta Kumar,9515790463
+"Apex Medical Academy, Mathura",Uttar Pradesh,Mathura,Central,Medical,Management,14,4873,Dr. Geeta Singh,9830053820
+"Sri Engineering College, Karol Bagh",New Delhi,Karol Bagh,North,Medical,Government,14,4898,Dr. Kavita Dar,9882416980
+Jammu Engineering College,Jammu & Kashmir,Jammu,North,Medical,Private,6,1676,Dr. Suresh Sharma,9998779534
+Prayagraj Law College,Uttar Pradesh,Prayagraj,Central,Arts/Science,Management,25,6807,Dr. Meena Verma,9779228148
+"Nav College of Arts & Science, Varanasi",Uttar Pradesh,Varanasi,Central,Law,Management,32,9610,Dr. Sanjeev Jain,9810590547
+Ghaziabad College of Arts & Science,Uttar Pradesh,Ghaziabad,East,Engineering,Management,6,7570,Dr. Suresh Gupta,9819449628
+"Heritage Institute of Management, Saket",New Delhi,Saket,North,Engineering,Management,16,11152,Dr. Rakesh Khan,9581263156
+Gorakhpur Law College,Uttar Pradesh,Gorakhpur,East,Engineering,Government,13,11001,Dr. Rajesh Agarwal,9886252527
+"Royal Institute of Technology, Meerut",Uttar Pradesh,Meerut,East,Engineering,Management,16,6741,Dr. Neha Dar,9523507802
+"Excellence Institute of Management, Dwarka",New Delhi,Dwarka,North,MBA,Government,4,10142,Dr. Rakesh Jain,9418232890
+Jammu Degree College,Jammu & Kashmir,Jammu,North,Arts/Science,Management,28,7603,Dr. Meena Singh,9895269163
+Prayagraj Medical Academy,Uttar Pradesh,Prayagraj,North,Arts/Science,Private,33,6042,Dr. Neha Jain,9519250979
+Varanasi Institute of Management,Uttar Pradesh,Varanasi,North,MBA,Private,30,11036,Dr. Neha Khan,9679198169
+Agra College of Arts & Science,Uttar Pradesh,Agra,Central,Diploma,Private,12,4434,Dr. Vikram Verma,9948096428
+Janakpuri Institute of Technology,New Delhi,Janakpuri,North,Arts/Science,Management,11,6847,Dr. Kavita Chauhan,9550559146
+Srinagar Medical Academy,Jammu & Kashmir,Srinagar,North,Law,Government,4,3234,Dr. Neha Patil,9418962685
+Dwarka College of Arts & Science,New Delhi,Dwarka,North,MBA,Private,7,10723,Dr. Rajesh Agarwal,9474599405
+Noida College of Arts & Science,Uttar Pradesh,Noida,Central,Arts/Science,Government,33,3136,Dr. Prakash Agarwal,9944615688
+"Apex Engineering College, Ghaziabad",Uttar Pradesh,Ghaziabad,North,Law,Government,33,4228,Dr. Sunita Jain,9741629414
+Gorakhpur Engineering College,Uttar Pradesh,Gorakhpur,East,Arts/Science,Management,24,4632,Dr. Rakesh Agarwal,9836309911
+Kupwara Degree College,Jammu & Kashmir,Kupwara,North,Medical,Management,8,2868,Dr. Ramesh Gupta,9795165386
+Jammu Institute of Technology,Jammu & Kashmir,Jammu,North,Law,Government,19,9514,Dr. Vikram Bhat,9897847316
+Kathua Law College,Jammu & Kashmir,Kathua,North,Arts/Science,Government,15,3571,Dr. Geeta Gupta,9429662195
+"Apex College of Arts & Science, Prayagraj",Uttar Pradesh,Prayagraj,North,UG & PG,Private,11,4092,Dr. Ramesh Mishra,9955679439
+"Sunrise Institute of Management, Bareilly",Uttar Pradesh,Bareilly,North,Diploma,Management,5,9942,Dr. Amit Patil,9615817193
+"Premier Degree College, Ghaziabad",Uttar Pradesh,Ghaziabad,Central,Engineering,Government,26,10908,Dr. Anil Singh,9517566699
+Lucknow Law College,Uttar Pradesh,Lucknow,North,UG & PG,Management,6,2715,Dr. Rajesh Bansal,9755478211
+"Sri Institute of Management, Moradabad",Uttar Pradesh,Moradabad,East,MBA,Management,16,7492,Dr. Neha Agarwal,9848257838
+"Heritage Engineering College, Saket",New Delhi,Saket,North,Law,Management,29,10250,Dr. Sanjeev Kumar,9522085797
+"Royal Law College, Aligarh",Uttar Pradesh,Aligarh,North,Diploma,Private,17,7080,Dr. Sunita Khan,9757942404
+"Excellence Medical Academy, Vasant Kunj",New Delhi,Vasant Kunj,North,Law,Management,5,10670,Dr. Anil Agarwal,9668522935
+Pulwama Engineering College,Jammu & Kashmir,Pulwama,North,MBA,Government,10,5571,Dr. Sunita Dar,9465705968
+Aligarh Law College,Uttar Pradesh,Aligarh,Central,Arts/Science,Management,16,2179,Dr. Suresh Mishra,9742419860
+Janakpuri Degree College,New Delhi,Janakpuri,North,UG & PG,Management,35,6217,Dr. Sanjay Sharma,9989650810
+Kathua Institute of Management,Jammu & Kashmir,Kathua,North,Medical,Private,26,5956,Dr. Geeta Patil,9994436417
+Lucknow Engineering College,Uttar Pradesh,Lucknow,North,Law,Government,35,4752,Dr. Sanjay Pandey,9958985574
+"Vision Degree College, Ghaziabad",Uttar Pradesh,Ghaziabad,North,Diploma,Private,17,6002,Dr. Prakash Chauhan,9722196430
+Anantnag Business School,Jammu & Kashmir,Anantnag,North,Arts/Science,Private,18,11977,Dr. Sanjeev Singh,9496750787
+Gorakhpur Engineering College,Uttar Pradesh,Gorakhpur,Central,Diploma,Government,35,3112,Dr. Rajesh Dar,9534841729
+Noida Engineering College,Uttar Pradesh,Noida,Central,Medical,Government,19,7881,Dr. Anand Patil,9613580525
+Bareilly Law College,Uttar Pradesh,Bareilly,Central,Diploma,Private,32,11451,Dr. Meena Gupta,9933729219
+"Excellence Medical Academy, Kanpur",Uttar Pradesh,Kanpur,Central,MBA,Management,6,4954,Dr. Arun Bhat,9468970341
+"Sri Degree College, Lucknow",Uttar Pradesh,Lucknow,Central,Law,Government,4,4111,Dr. Rakesh Bhat,9525178679
+"Sri Institute of Management, Bareilly",Uttar Pradesh,Bareilly,East,Diploma,Management,21,9603,Dr. Geeta Pandey,9638056600
+"National Institute of Technology, Vasant Kunj",New Delhi,Vasant Kunj,North,MBA,Management,4,4762,Dr. Sanjeev Sharma,9936145196
+Prayagraj Institute of Technology,Uttar Pradesh,Prayagraj,North,Diploma,Government,9,6960,Dr. Arun Bhat,9440914723
+Pulwama Institute of Management,Jammu & Kashmir,Pulwama,North,MBA,Management,30,4921,Dr. Neha Patil,9752753179
+"Vision Institute of Management, Ghaziabad",Uttar Pradesh,Ghaziabad,North,UG & PG,Private,11,3044,Dr. Rajesh Pandey,9471214157
+"Sri Law College, Vasant Kunj",New Delhi,Vasant Kunj,North,Medical,Management,11,10772,Dr. Suresh Dar,9628113748
+Baramulla Medical Academy,Jammu & Kashmir,Baramulla,North,MBA,Private,6,7569,Dr. Geeta Bhat,9521268169
+"Pioneer College of Arts & Science, Agra",Uttar Pradesh,Agra,Central,Diploma,Management,8,1572,Dr. Sanjay Pandey,9868877269
+"National Institute of Management, Moradabad",Uttar Pradesh,Moradabad,North,UG & PG,Management,15,8894,Dr. Pooja Pandey,9449041121
+Moradabad Law College,Uttar Pradesh,Moradabad,Central,Law,Government,5,3676,Dr. Kavita Dar,9940027913
+"National Degree College, Vasant Kunj",New Delhi,Vasant Kunj,North,Diploma,Government,16,5934,Dr. Ramesh Jain,9443454406
+"Premier Degree College, Pulwama",Jammu & Kashmir,Pulwama,North,Arts/Science,Government,31,2339,Dr. Suresh Sharma,9446520746
+Pulwama Engineering College,Jammu & Kashmir,Pulwama,North,UG & PG,Management,20,9619,Dr. Meena Sharma,9846475444
+"Premier Law College, Kanpur",Uttar Pradesh,Kanpur,North,UG & PG,Private,32,3892,Dr. Anand Pandey,9752604420
+Dwarka Business School,New Delhi,Dwarka,North,Medical,Management,33,11694,Dr. Suresh Mishra,9967400133
+"Pioneer Business School, Dwarka",New Delhi,Dwarka,North,Law,Government,18,5668,Dr. Ramesh Sharma,9661745200
+"Heritage Law College, Varanasi",Uttar Pradesh,Varanasi,North,Medical,Private,7,3263,Dr. Anand Chauhan,9525512068
+Ghaziabad Business School,Uttar Pradesh,Ghaziabad,North,Engineering,Management,4,6842,Dr. Sunita Kumar,9938274923
+Udhampur Engineering College,Jammu & Kashmir,Udhampur,North,Medical,Government,34,8001,Dr. Meena Bansal,9623516982
+"Excellence College of Arts & Science, Vasant Kunj",New Delhi,Vasant Kunj,North,UG & PG,Private,35,8763,Dr. Prakash Pandey,9989993266
+"Apex Degree College, Varanasi (84)",Uttar Pradesh,Varanasi,North,Engineering,Private,35,4370,Dr. Pooja Chauhan,9910321463
+"Heritage Degree College, Varanasi",Uttar Pradesh,Varanasi,North,Engineering,Government,18,9572,Dr. Suresh Gupta,9462468531
+"Apex Medical Academy, Moradabad",Uttar Pradesh,Moradabad,North,UG & PG,Management,32,1661,Dr. Sunita Agarwal,9744022436
+Meerut Institute of Management,Uttar Pradesh,Meerut,North,MBA,Management,5,10687,Dr. Rakesh Khan,9431121012
+"Heritage Degree College, Kupwara",Jammu & Kashmir,Kupwara,North,Diploma,Management,20,10315,Dr. Sunita Bhat,9853154813
+Anantnag Engineering College,Jammu & Kashmir,Anantnag,North,UG & PG,Government,28,4754,Dr. Pooja Sharma,9632996036
+"National Engineering College, Moradabad",Uttar Pradesh,Moradabad,North,MBA,Private,10,3333,Dr. Geeta Gupta,9498402610
+"Royal Institute of Management, Srinagar",Jammu & Kashmir,Srinagar,North,UG & PG,Government,23,9217,Dr. Anil Yadav,9812394782
+"Premier Business School, Meerut",Uttar Pradesh,Meerut,North,Arts/Science,Government,24,8991,Dr. Rajesh Yadav,9966202168
+Meerut Institute of Management,Uttar Pradesh,Meerut,North,Arts/Science,Private,23,5088,Dr. Prakash Gupta,9838251669
+"Royal Engineering College, Lucknow",Uttar Pradesh,Lucknow,North,UG & PG,Private,11,6966,Dr. Prakash Chauhan,9739711150
+Kupwara Institute of Management,Jammu & Kashmir,Kupwara,North,Diploma,Management,32,6732,Dr. Geeta Khan,9916174845
+"Maha Degree College, Karol Bagh",New Delhi,Karol Bagh,North,MBA,Government,24,6916,Dr. Meena Pandey,9897528890
+"Pioneer Degree College, Mathura",Uttar Pradesh,Mathura,North,MBA,Private,24,11875,Dr. Sanjeev Khan,9951786723
+Noida College of Arts & Science,Uttar Pradesh,Noida,Central,Diploma,Management,26,8461,Dr. Sunita Singh,9463054312
+"National Institute of Technology, Kanpur",Uttar Pradesh,Kanpur,East,Arts/Science,Private,18,6514,Dr. Meena Khan,9563471811
+"Sunrise Institute of Technology, Lucknow",Uttar Pradesh,Lucknow,Central,Engineering,Government,4,3110,Dr. Geeta Dar,9410237853
+"Excellence Engineering College, Moradabad",Uttar Pradesh,Moradabad,North,Diploma,Government,28,7177,Dr. Vikram Khan,9739086415
+"Sunrise Institute of Technology, Rohini",New Delhi,Rohini,North,UG & PG,Private,14,6211,Dr. Amit Sharma,9756238834
+"Vision Business School, Ghaziabad (103)",Uttar Pradesh,Ghaziabad,North,Arts/Science,Government,15,8783,Dr. Amit Mishra,9714124829
+"Vision Law College, Prayagraj",Uttar Pradesh,Prayagraj,North,Engineering,Government,26,9128,Dr. Rajesh Jain,9589614495
+"Vision Law College, Saket",New Delhi,Saket,North,Engineering,Government,35,4508,Dr. Vikram Sharma,9912761863
+Bareilly Engineering College,Uttar Pradesh,Bareilly,North,Engineering,Private,30,5921,Dr. Prakash Chauhan,9569990056
+"Pioneer Engineering College, Ghaziabad",Uttar Pradesh,Ghaziabad,East,Diploma,Government,9,4373,Dr. Neha Sharma,9640408175
+"Sri College of Arts & Science, Janakpuri",New Delhi,Janakpuri,North,Law,Government,11,8383,Dr. Prakash Singh,9713761341
+Anantnag Institute of Technology,Jammu & Kashmir,Anantnag,North,UG & PG,Government,12,10680,Dr. Rakesh Verma,9448649963
+Moradabad Business School,Uttar Pradesh,Moradabad,East,Medical,Government,26,7499,Dr. Sanjay Khan,9549614048
+"Vision Engineering College, Agra",Uttar Pradesh,Agra,North,Medical,Private,26,9230,Dr. Anil Yadav,9814947802
+"Premier Engineering College, Kanpur",Uttar Pradesh,Kanpur,North,Law,Management,10,10574,Dr. Neha Sharma,9555746741
+Ghaziabad Business School,Uttar Pradesh,Ghaziabad,Central,Medical,Government,27,2670,Dr. Ramesh Agarwal,9946471875
+"Royal Law College, Agra",Uttar Pradesh,Agra,East,UG & PG,Private,32,10860,Dr. Suresh Kumar,9691396263
+Pulwama Institute of Technology,Jammu & Kashmir,Pulwama,North,Medical,Management,9,7983,Dr. Sanjay Verma,9493376805
+"Nav Medical Academy, Vasant Kunj",New Delhi,Vasant Kunj,North,UG & PG,Management,4,1356,Dr. Kavita Pandey,9459722206
+"Vision Engineering College, Mathura",Uttar Pradesh,Mathura,East,Diploma,Government,19,6924,Dr. Pooja Singh,9432873339
+Baramulla Institute of Technology,Jammu & Kashmir,Baramulla,North,MBA,Government,25,8439,Dr. Vikram Bhat,9558860886
+Meerut Business School,Uttar Pradesh,Meerut,East,Diploma,Government,32,1642,Dr. Prakash Chauhan,9621403389
+"Premier Institute of Technology, Agra",Uttar Pradesh,Agra,Central,Engineering,Government,10,9831,Dr. Vikram Singh,9963021266
+Mathura Institute of Management,Uttar Pradesh,Mathura,Central,MBA,Management,10,5380,Dr. Sanjeev Agarwal,9876853402
+Udhampur Institute of Management,Jammu & Kashmir,Udhampur,North,MBA,Government,23,6689,Dr. Arun Sharma,9789071370
+"Premier Medical Academy, Moradabad",Uttar Pradesh,Moradabad,East,Law,Government,20,6451,Dr. Kavita Verma,9721557157
+Meerut Business School,Uttar Pradesh,Meerut,East,Diploma,Private,20,6091,Dr. Geeta Bhat,9656777105
+"Premier College of Arts & Science, Anantnag",Jammu & Kashmir,Anantnag,North,Law,Management,13,5102,Dr. Sunita Kumar,9441615511
+"Heritage Degree College, Ghaziabad",Uttar Pradesh,Ghaziabad,North,Engineering,Government,23,6357,Dr. Anil Singh,9859672152
+Ghaziabad Business School,Uttar Pradesh,Ghaziabad,Central,Diploma,Management,19,6996,Dr. Suresh Kumar,9945645970
+Meerut Institute of Technology,Uttar Pradesh,Meerut,Central,Law,Management,24,10216,Dr. Anil Sharma,9761921493
+Lucknow Medical Academy,Uttar Pradesh,Lucknow,East,Diploma,Private,27,8522,Dr. Sunita Chauhan,9618640453
+"Maha Engineering College, Moradabad",Uttar Pradesh,Moradabad,East,Medical,Management,30,2982,Dr. Rajesh Verma,9674558355
+Udhampur Engineering College,Jammu & Kashmir,Udhampur,North,UG & PG,Government,5,6927,Dr. Sanjeev Patil,9913914540
+Agra Business School,Uttar Pradesh,Agra,East,Medical,Management,33,9695,Dr. Anil Verma,9955727335
+"Maha Medical Academy, Bareilly",Uttar Pradesh,Bareilly,North,Diploma,Private,28,10938,Dr. Sunita Yadav,9762408069
+Rohini College of Arts & Science (134),New Delhi,Rohini,North,UG & PG,Management,24,9418,Dr. Sanjay Pandey,9589276168
+Karol Bagh Degree College,New Delhi,Karol Bagh,North,Arts/Science,Private,23,11481,Dr. Amit Patil,9843167757
+Karol Bagh Institute of Management,New Delhi,Karol Bagh,North,MBA,Private,26,1754,Dr. Sanjay Agarwal,9442552822
+"Sri Engineering College, Prayagraj",Uttar Pradesh,Prayagraj,East,Diploma,Government,12,7657,Dr. Arun Pandey,9482215414
+Bareilly Institute of Management,Uttar Pradesh,Bareilly,North,UG & PG,Government,31,896,Dr. Geeta Bansal,9587303759
+Bareilly Institute of Technology,Uttar Pradesh,Bareilly,Central,Engineering,Government,33,9273,Dr. Amit Agarwal,9690483071
+Meerut Business School,Uttar Pradesh,Meerut,North,Diploma,Private,25,10961,Dr. Kavita Singh,9937298998
+Vasant Kunj Business School,New Delhi,Vasant Kunj,North,Law,Private,7,9501,Dr. Sunita Bansal,9580296498
+"Global Institute of Technology, Lucknow",Uttar Pradesh,Lucknow,East,UG & PG,Management,35,1441,Dr. Arun Bhat,9413417420
+Agra Engineering College,Uttar Pradesh,Agra,Central,Medical,Private,16,7728,Dr. Kavita Pandey,9818680245
+Ghaziabad Institute of Management,Uttar Pradesh,Ghaziabad,North,Engineering,Private,19,1841,Dr. Meena Khan,9493899106
+"National Institute of Technology, Moradabad",Uttar Pradesh,Moradabad,North,Arts/Science,Government,15,10145,Dr. Meena Agarwal,9785931743
+Lucknow Medical Academy,Uttar Pradesh,Lucknow,East,Medical,Government,6,11329,Dr. Meena Pandey,9877714354
+"Sri Engineering College, Varanasi",Uttar Pradesh,Varanasi,Central,Medical,Management,32,1542,Dr. Sanjay Verma,9845313377
+Mathura Institute of Technology,Uttar Pradesh,Mathura,North,Law,Management,5,11930,Dr. Rajesh Gupta,9473485782
+"Vision Institute of Management, Noida",Uttar Pradesh,Noida,North,Engineering,Private,14,1208,Dr. Amit Pandey,9519551337
+"Global Institute of Management, Noida",Uttar Pradesh,Noida,North,Diploma,Private,11,9973,Dr. Pooja Bansal,9524272737
+"Maha Institute of Technology, Meerut",Uttar Pradesh,Meerut,North,Engineering,Management,31,9842,Dr. Anil Dar,9679119167
+"Royal Institute of Management, Mathura",Uttar Pradesh,Mathura,East,Law,Management,30,1786,Dr. Anil Bhat,9783274710
+Meerut Institute of Management,Uttar Pradesh,Meerut,Central,Diploma,Management,14,5404,Dr. Sanjeev Jain,9665005652
+Lucknow Law College,Uttar Pradesh,Lucknow,East,Arts/Science,Government,16,6109,Dr. Sunita Bhat,9772771783
+"Nav Medical Academy, Meerut",Uttar Pradesh,Meerut,East,Diploma,Private,24,9920,Dr. Neha Pandey,9910429021
+"Pioneer Institute of Technology, Agra",Uttar Pradesh,Agra,East,MBA,Management,19,6013,Dr. Meena Yadav,9714385533
+"Sunrise Medical Academy, Bareilly",Uttar Pradesh,Bareilly,North,Law,Private,30,4682,Dr. Anil Dar,9896679778
+Gorakhpur College of Arts & Science,Uttar Pradesh,Gorakhpur,North,Diploma,Private,34,5846,Dr. Anil Bansal,9761143549
+Noida Law College,Uttar Pradesh,Noida,North,Law,Government,21,9560,Dr. Sunita Kumar,9871875786
+Udhampur Engineering College,Jammu & Kashmir,Udhampur,North,Arts/Science,Government,29,4622,Dr. Rajesh Agarwal,9782209918
+Moradabad Business School,Uttar Pradesh,Moradabad,East,MBA,Private,10,3438,Dr. Sanjay Chauhan,9424525641
+Pulwama Institute of Technology,Jammu & Kashmir,Pulwama,North,UG & PG,Management,24,8496,Dr. Rajesh Agarwal,9979996743
+"Premier Degree College, Noida",Uttar Pradesh,Noida,East,MBA,Management,4,9377,Dr. Prakash Bansal,9811219190
+"Apex Engineering College, Moradabad",Uttar Pradesh,Moradabad,Central,Engineering,Government,23,899,Dr. Arun Jain,9992208194
+Kathua Institute of Technology,Jammu & Kashmir,Kathua,North,Arts/Science,Private,10,4539,Dr. Sanjay Chauhan,9718538245
+"Sunrise College of Arts & Science, Anantnag",Jammu & Kashmir,Anantnag,North,Law,Private,14,4857,Dr. Geeta Patil,9555109303
+"Royal Business School, Bareilly",Uttar Pradesh,Bareilly,North,Arts/Science,Private,22,6186,Dr. Arun Dar,9837402180
+Bareilly Institute of Technology,Uttar Pradesh,Bareilly,North,Arts/Science,Management,28,2242,Dr. Suresh Mishra,9443925938
+"Royal Medical Academy, Mathura",Uttar Pradesh,Mathura,Central,UG & PG,Private,12,10203,Dr. Sanjay Patil,9445540926
+Saket Institute of Technology,New Delhi,Saket,North,Diploma,Private,22,8985,Dr. Rajesh Patil,9787911787
+Aligarh Institute of Management,Uttar Pradesh,Aligarh,North,Medical,Management,13,1575,Dr. Rakesh Pandey,9715631154
+"Royal Medical Academy, Lucknow",Uttar Pradesh,Lucknow,North,Arts/Science,Government,20,7905,Dr. Sanjay Dar,9947467665
+"Global College of Arts & Science, Srinagar",Jammu & Kashmir,Srinagar,North,Law,Management,32,8208,Dr. Neha Kumar,9641646405
+"Vision College of Arts & Science, Noida",Uttar Pradesh,Noida,East,Diploma,Government,9,10497,Dr. Sanjay Jain,9656212190
+"Vision Institute of Management, Ghaziabad",Uttar Pradesh,Ghaziabad,North,Medical,Private,21,3920,Dr. Meena Bansal,9627368566
+"Sunrise Medical Academy, Saket",New Delhi,Saket,North,Engineering,Private,33,10732,Dr. Neha Sharma,9839376739
+"Excellence College of Arts & Science, Kanpur",Uttar Pradesh,Kanpur,North,Diploma,Private,25,10159,Dr. Sunita Jain,9989956599
+"Premier Institute of Management, Kanpur",Uttar Pradesh,Kanpur,North,Diploma,Management,18,2513,Dr. Ramesh Patil,9574125384
+Srinagar College of Arts & Science,Jammu & Kashmir,Srinagar,North,Engineering,Management,30,4628,Dr. Anand Khan,9724292729
+"Excellence Institute of Technology, Prayagraj",Uttar Pradesh,Prayagraj,North,Medical,Management,24,7572,Dr. Geeta Singh,9830820988
+"Heritage Medical Academy, Saket",New Delhi,Saket,North,MBA,Government,20,8331,Dr. Kavita Mishra,9882193257
+Prayagraj Institute of Technology,Uttar Pradesh,Prayagraj,Central,Medical,Management,20,4918,Dr. Rakesh Chauhan,9831036197
+"National Degree College, Anantnag",Jammu & Kashmir,Anantnag,North,Diploma,Private,14,9344,Dr. Pooja Verma,9758034081
+Noida Law College,Uttar Pradesh,Noida,North,Diploma,Government,32,9905,Dr. Ramesh Agarwal,9978132709
+"Premier Law College, Lucknow",Uttar Pradesh,Lucknow,Central,UG & PG,Government,18,5829,Dr. Geeta Chauhan,9712842576
+"Premier Medical Academy, Dwarka",New Delhi,Dwarka,North,UG & PG,Government,24,1640,Dr. Vikram Chauhan,9429493522
+"Apex Medical Academy, Udhampur",Jammu & Kashmir,Udhampur,North,Arts/Science,Private,4,10387,Dr. Prakash Singh,9942113988
+Pulwama Degree College,Jammu & Kashmir,Pulwama,North,MBA,Management,15,10634,Dr. Vikram Verma,9425642210
+"Sri Engineering College, Kathua",Jammu & Kashmir,Kathua,North,Arts/Science,Government,23,6934,Dr. Ramesh Agarwal,9430725248
+"Royal Institute of Technology, Bareilly",Uttar Pradesh,Bareilly,East,Arts/Science,Management,12,5316,Dr. Arun Jain,9694367682
+Meerut Medical Academy,Uttar Pradesh,Meerut,North,Engineering,Private,4,6544,Dr. Meena Jain,9624081389
+Vasant Kunj Law College,New Delhi,Vasant Kunj,North,Diploma,Private,15,4706,Dr. Anil Bhat,9633750926
+Mathura Medical Academy,Uttar Pradesh,Mathura,Central,Arts/Science,Private,16,5064,Dr. Geeta Verma,9461174863
+Aligarh Law College,Uttar Pradesh,Aligarh,North,Law,Government,20,3900,Dr. Anand Mishra,9466200664
+"Maha Degree College, Mathura",Uttar Pradesh,Mathura,East,Diploma,Government,8,1363,Dr. Rajesh Kumar,9842625924
+Pulwama Institute of Technology,Jammu & Kashmir,Pulwama,North,MBA,Management,27,6791,Dr. Geeta Sharma,9856069889
+"Excellence Engineering College, Bareilly",Uttar Pradesh,Bareilly,North,MBA,Management,17,9537,Dr. Arun Dar,9592860540
+Pulwama Medical Academy,Jammu & Kashmir,Pulwama,North,MBA,Government,29,8339,Dr. Amit Pandey,9830907316
+"Nav Engineering College, Agra",Uttar Pradesh,Agra,East,Arts/Science,Government,14,8466,Dr. Neha Gupta,9499035923
+"Pioneer Business School, Varanasi (200)",Uttar Pradesh,Varanasi,North,Diploma,Government,28,6017,Dr. Sunita Patil,9654469204
+Noida College of Arts & Science,Uttar Pradesh,Noida,North,Diploma,Private,32,11996,Dr. Amit Chauhan,9933293011
+Prayagraj Degree College,Uttar Pradesh,Prayagraj,Central,Medical,Management,22,7811,Dr. Arun Khan,9940372655
+Varanasi Engineering College,Uttar Pradesh,Varanasi,East,Diploma,Management,10,5337,Dr. Vikram Patil,9771024563
+Moradabad Degree College,Uttar Pradesh,Moradabad,East,Diploma,Management,11,4877,Dr. Sanjay Singh,9533858484
+"Pioneer Business School, Kathua",Jammu & Kashmir,Kathua,North,Diploma,Government,30,9243,Dr. Ramesh Sharma,9861289615
+"National Degree College, Vasant Kunj",New Delhi,Vasant Kunj,North,Arts/Science,Government,31,2827,Dr. Sunita Pandey,9958462599
+Bareilly Institute of Management,Uttar Pradesh,Bareilly,North,Engineering,Management,33,8419,Dr. Suresh Agarwal,9863771884
+Agra Law College,Uttar Pradesh,Agra,North,Arts/Science,Private,26,10430,Dr. Anil Gupta,9638846978
+Udhampur Law College,Jammu & Kashmir,Udhampur,North,Arts/Science,Management,11,10603,Dr. Meena Pandey,9765642507
+"Maha Engineering College, Karol Bagh",New Delhi,Karol Bagh,North,Law,Private,15,5898,Dr. Amit Gupta,9563027636
+Anantnag Engineering College,Jammu & Kashmir,Anantnag,North,Medical,Private,11,7933,Dr. Pooja Singh,9744430861
+Lucknow Law College,Uttar Pradesh,Lucknow,North,Engineering,Government,8,8130,Dr. Rajesh Yadav,9626721385
+Varanasi Degree College,Uttar Pradesh,Varanasi,North,Medical,Private,5,10988,Dr. Prakash Verma,9716360420
+Srinagar Engineering College (214),Jammu & Kashmir,Srinagar,North,Engineering,Government,34,7793,Dr. Meena Bhat,9450404329
+Vasant Kunj Medical Academy,New Delhi,Vasant Kunj,North,Engineering,Government,29,7365,Dr. Pooja Patil,9493320130
+Prayagraj Institute of Management,Uttar Pradesh,Prayagraj,North,Medical,Private,28,5916,Dr. Meena Dar,9621960422
+"Pioneer Institute of Management, Janakpuri",New Delhi,Janakpuri,North,MBA,Management,4,3813,Dr. Kavita Yadav,9892812752
+"National Law College, Varanasi",Uttar Pradesh,Varanasi,North,Medical,Government,22,2063,Dr. Amit Chauhan,9419941295
+Moradabad Business School,Uttar Pradesh,Moradabad,Central,UG & PG,Management,16,11304,Dr. Rakesh Khan,9559282383
+"Global College of Arts & Science, Dwarka",New Delhi,Dwarka,North,Diploma,Private,26,5708,Dr. Ramesh Jain,9698238595
+Mathura Institute of Management,Uttar Pradesh,Mathura,Central,Law,Private,15,2323,Dr. Anil Sharma,9731683712
+"Pioneer Law College, Pulwama",Jammu & Kashmir,Pulwama,North,Medical,Government,8,6217,Dr. Amit Verma,9835262396
+"Global Law College, Varanasi",Uttar Pradesh,Varanasi,North,Law,Government,22,6773,Dr. Arun Singh,9554362039
+"Pioneer Engineering College, Noida",Uttar Pradesh,Noida,North,Engineering,Private,10,4609,Dr. Meena Pandey,9740720989
+Noida Engineering College,Uttar Pradesh,Noida,North,UG & PG,Management,11,11592,Dr. Vikram Khan,9481849417
+"Sunrise Institute of Technology, Varanasi",Uttar Pradesh,Varanasi,North,Arts/Science,Government,32,10079,Dr. Anand Dar,9429815120
+"Excellence College of Arts & Science, Bareilly",Uttar Pradesh,Bareilly,North,Medical,Government,31,5584,Dr. Vikram Chauhan,9885747330
+"Apex Institute of Technology, Lucknow",Uttar Pradesh,Lucknow,Central,Law,Government,9,11730,Dr. Sanjeev Mishra,9652694861
+"Pioneer Institute of Management, Aligarh",Uttar Pradesh,Aligarh,North,MBA,Private,31,9480,Dr. Anand Yadav,9859929531
+"Pioneer College of Arts & Science, Kupwara",Jammu & Kashmir,Kupwara,North,MBA,Government,16,11943,Dr. Suresh Gupta,9832606259
+"Apex Law College, Gorakhpur",Uttar Pradesh,Gorakhpur,Central,Diploma,Management,35,7277,Dr. Meena Mishra,9738238881
+"Pioneer Medical Academy, Ghaziabad",Uttar Pradesh,Ghaziabad,East,Diploma,Government,22,1169,Dr. Suresh Singh,9450486936
+"Sunrise Degree College, Srinagar",Jammu & Kashmir,Srinagar,North,Diploma,Private,10,10045,Dr. Anil Chauhan,9669229070
+Kanpur Business School,Uttar Pradesh,Kanpur,Central,Medical,Government,4,1021,Dr. Suresh Yadav,9581282484
+"Apex Law College, Lucknow",Uttar Pradesh,Lucknow,North,Medical,Government,9,3521,Dr. Sanjay Jain,9592680301
+"Royal Institute of Technology, Baramulla",Jammu & Kashmir,Baramulla,North,Diploma,Government,5,11436,Dr. Rajesh Bansal,9857520747
+"Royal Law College, Prayagraj",Uttar Pradesh,Prayagraj,Central,Medical,Government,27,2999,Dr. Anil Verma,9695409354
+Kanpur Business School,Uttar Pradesh,Kanpur,East,Arts/Science,Government,13,11178,Dr. Amit Gupta,9942582818
+Baramulla Medical Academy,Jammu & Kashmir,Baramulla,North,Engineering,Government,17,8427,Dr. Amit Dar,9885834218
+Kupwara College of Arts & Science,Jammu & Kashmir,Kupwara,North,Diploma,Management,9,11203,Dr. Anand Gupta,9445867052
+"Sunrise Engineering College, Baramulla",Jammu & Kashmir,Baramulla,North,Law,Management,8,6833,Dr. Arun Pandey,9742955477
+Meerut Law College,Uttar Pradesh,Meerut,Central,Arts/Science,Government,8,10579,Dr. Sanjay Kumar,9451317542
+"Pioneer Engineering College, Aligarh",Uttar Pradesh,Aligarh,North,UG & PG,Management,9,5582,Dr. Prakash Sharma,9644965903
+"Excellence Law College, Moradabad",Uttar Pradesh,Moradabad,Central,Diploma,Government,34,1835,Dr. Meena Pandey,9696557755
+"Global College of Arts & Science, Ghaziabad",Uttar Pradesh,Ghaziabad,Central,UG & PG,Private,13,805,Dr. Meena Bansal,9841346188
+Kanpur Engineering College,Uttar Pradesh,Kanpur,North,Engineering,Management,15,6865,Dr. Rajesh Pandey,9842202727
+"Nav College of Arts & Science, Vasant Kunj",New Delhi,Vasant Kunj,North,Medical,Management,24,4879,Dr. Neha Sharma,9729227967
+Agra Law College,Uttar Pradesh,Agra,Central,MBA,Government,31,6647,Dr. Rakesh Sharma,9495457314
+Lucknow Medical Academy,Uttar Pradesh,Lucknow,North,Medical,Management,33,2568,Dr. Ramesh Verma,9957816889
+"Sri Engineering College, Lucknow",Uttar Pradesh,Lucknow,North,MBA,Management,23,1415,Dr. Neha Sharma,9747184873
+"Royal Institute of Management, Agra",Uttar Pradesh,Agra,North,Diploma,Private,33,6163,Dr. Kavita Gupta,9924121556
+"Heritage Degree College, Karol Bagh",New Delhi,Karol Bagh,North,Medical,Private,15,7904,Dr. Prakash Singh,9591323433
+Lucknow Engineering College,Uttar Pradesh,Lucknow,North,Law,Government,12,10189,Dr. Suresh Pandey,9765477685
+Aligarh Law College,Uttar Pradesh,Aligarh,Central,Engineering,Government,13,2528,Dr. Kavita Kumar,9528009452
+Prayagraj Engineering College,Uttar Pradesh,Prayagraj,North,Medical,Private,18,8182,Dr. Geeta Bansal,9771533118
+"Vision Institute of Technology, Kanpur",Uttar Pradesh,Kanpur,Central,Engineering,Private,12,10713,Dr. Kavita Singh,9918956717
+Jammu Institute of Technology,Jammu & Kashmir,Jammu,North,MBA,Government,28,9285,Dr. Kavita Jain,9545643922
+"National Engineering College, Pulwama",Jammu & Kashmir,Pulwama,North,Arts/Science,Government,5,9071,Dr. Vikram Kumar,9847749654
+"National Institute of Management, Meerut",Uttar Pradesh,Meerut,Central,Arts/Science,Government,12,2442,Dr. Sunita Bansal,9533839385
+Ghaziabad Engineering College (260),Uttar Pradesh,Ghaziabad,North,Arts/Science,Management,33,5098,Dr. Meena Mishra,9594896308
+Udhampur Degree College,Jammu & Kashmir,Udhampur,North,Medical,Management,25,3397,Dr. Geeta Yadav,9990734067
+Pulwama Engineering College,Jammu & Kashmir,Pulwama,North,Medical,Private,6,3025,Dr. Kavita Chauhan,9448858051
+Ghaziabad Degree College,Uttar Pradesh,Ghaziabad,Central,Arts/Science,Government,18,8995,Dr. Vikram Bhat,9574255582
+Varanasi Engineering College,Uttar Pradesh,Varanasi,North,Engineering,Private,31,11399,Dr. Arun Yadav,9970421242
+"Sunrise College of Arts & Science, Gorakhpur",Uttar Pradesh,Gorakhpur,Central,UG & PG,Private,14,4739,Dr. Sunita Bhat,9716072751
+"Premier Business School, Bareilly",Uttar Pradesh,Bareilly,East,UG & PG,Private,8,8850,Dr. Meena Jain,9741090960
+"Nav Engineering College, Saket",New Delhi,Saket,North,Diploma,Private,11,1375,Dr. Geeta Dar,9929884303
+"Sunrise Engineering College, Ghaziabad",Uttar Pradesh,Ghaziabad,North,MBA,Private,31,7253,Dr. Geeta Agarwal,9948973559
+"Nav College of Arts & Science, Gorakhpur",Uttar Pradesh,Gorakhpur,Central,UG & PG,Management,25,1792,Dr. Vikram Jain,9918897122
+Moradabad Business School,Uttar Pradesh,Moradabad,North,Diploma,Private,7,2022,Dr. Amit Bansal,9677307543
+"Global Degree College, Noida",Uttar Pradesh,Noida,East,UG & PG,Management,29,5591,Dr. Neha Yadav,9876920383
+"Sunrise Business School, Mathura",Uttar Pradesh,Mathura,East,Diploma,Management,19,10572,Dr. Rajesh Pandey,9756821080
+"Nav Institute of Technology, Bareilly",Uttar Pradesh,Bareilly,North,UG & PG,Management,21,7205,Dr. Prakash Khan,9764413276
+Meerut Degree College,Uttar Pradesh,Meerut,North,Diploma,Government,10,10116,Dr. Geeta Chauhan,9584002687
+"Apex Institute of Technology, Prayagraj",Uttar Pradesh,Prayagraj,Central,Medical,Management,31,5409,Dr. Meena Patil,9675017860
+Janakpuri Engineering College,New Delhi,Janakpuri,North,UG & PG,Government,17,10174,Dr. Arun Mishra,9519243107
+"National Institute of Technology, Aligarh (277)",Uttar Pradesh,Aligarh,North,Diploma,Government,13,3919,Dr. Neha Khan,9753518975
+"Vision Medical Academy, Varanasi",Uttar Pradesh,Varanasi,North,MBA,Management,19,3885,Dr. Anil Khan,9731255717
+"Premier Degree College, Saket",New Delhi,Saket,North,UG & PG,Private,13,2121,Dr. Amit Patil,9879240224
+"National Institute of Technology, Karol Bagh",New Delhi,Karol Bagh,North,Medical,Government,32,2089,Dr. Sunita Sharma,9835763019
+"National Degree College, Srinagar",Jammu & Kashmir,Srinagar,North,Arts/Science,Government,21,2690,Dr. Arun Verma,9923069646
+"Apex Engineering College, Gorakhpur",Uttar Pradesh,Gorakhpur,North,Law,Management,5,10621,Dr. Rajesh Jain,9988649478
+"Global Law College, Noida",Uttar Pradesh,Noida,Central,Medical,Management,14,11587,Dr. Kavita Dar,9693923402
+"Royal Institute of Management, Kanpur",Uttar Pradesh,Kanpur,North,Medical,Private,7,1769,Dr. Neha Khan,9926423282
+Kathua Medical Academy,Jammu & Kashmir,Kathua,North,Medical,Management,20,4063,Dr. Arun Khan,9817542807
+Lucknow Institute of Technology,Uttar Pradesh,Lucknow,North,MBA,Management,25,9044,Dr. Neha Kumar,9988836349
+Agra Business School,Uttar Pradesh,Agra,East,Engineering,Private,27,3996,Dr. Meena Gupta,9586138876
+"Global Degree College, Agra",Uttar Pradesh,Agra,North,MBA,Government,33,4879,Dr. Suresh Bansal,9733029776
+Gorakhpur Institute of Management,Uttar Pradesh,Gorakhpur,North,Diploma,Management,15,9287,Dr. Arun Pandey,9897608236
+Kanpur Degree College,Uttar Pradesh,Kanpur,North,Diploma,Government,13,11817,Dr. Meena Jain,9445161405
+Meerut College of Arts & Science,Uttar Pradesh,Meerut,North,Diploma,Government,15,7734,Dr. Kavita Mishra,9615790382
+"National Medical Academy, Gorakhpur",Uttar Pradesh,Gorakhpur,North,Law,Government,15,6130,Dr. Sunita Singh,9899523112
+"Sunrise Engineering College, Rohini",New Delhi,Rohini,North,Law,Private,8,10475,Dr. Rakesh Kumar,9586474176
+"Vision Engineering College, Kupwara",Jammu & Kashmir,Kupwara,North,UG & PG,Management,11,9528,Dr. Kavita Bhat,9795159020
+"Apex Engineering College, Prayagraj",Uttar Pradesh,Prayagraj,East,Arts/Science,Private,29,7347,Dr. Meena Yadav,9872993801
+Mathura Institute of Technology,Uttar Pradesh,Mathura,North,UG & PG,Management,6,7937,Dr. Sanjay Mishra,9424709852
+Moradabad Law College,Uttar Pradesh,Moradabad,North,Law,Private,20,7766,Dr. Kavita Chauhan,9720667697
+Baramulla Institute of Technology,Jammu & Kashmir,Baramulla,North,Law,Private,27,3763,Dr. Meena Sharma,9459925729
+"Vision Medical Academy, Lucknow",Uttar Pradesh,Lucknow,North,Law,Government,15,2523,Dr. Anand Verma,9930724859
+"Maha Degree College, Moradabad",Uttar Pradesh,Moradabad,North,MBA,Government,18,2652,Dr. Ramesh Jain,9431335081
+Gorakhpur Law College,Uttar Pradesh,Gorakhpur,Central,Diploma,Government,14,8489,Dr. Rakesh Khan,9777129395
+Ghaziabad Law College,Uttar Pradesh,Ghaziabad,North,MBA,Private,10,7630,Dr. Anand Yadav,9663284507
+"Vision Law College, Bareilly",Uttar Pradesh,Bareilly,North,UG & PG,Management,25,7749,Dr. Ramesh Bansal,9913915795
+Aligarh College of Arts & Science,Uttar Pradesh,Aligarh,Central,Medical,Management,25,10641,Dr. Rakesh Bansal,9673752087
+"Nav Institute of Technology, Noida",Uttar Pradesh,Noida,East,Engineering,Management,8,10540,Dr. Anand Chauhan,9826807966
+Dwarka College of Arts & Science,New Delhi,Dwarka,North,Arts/Science,Government,26,868,Dr. Neha Khan,9717178417
+Prayagraj College of Arts & Science,Uttar Pradesh,Prayagraj,Central,UG & PG,Private,16,6309,Dr. Meena Kumar,9715736944
+"Excellence Medical Academy, Ghaziabad",Uttar Pradesh,Ghaziabad,North,Diploma,Private,9,2292,Dr. Rajesh Agarwal,9780241344
+Aligarh College of Arts & Science,Uttar Pradesh,Aligarh,North,Medical,Government,30,1736,Dr. Arun Mishra,9661221554
+Noida Institute of Technology,Uttar Pradesh,Noida,North,MBA,Private,8,9515,Dr. Rajesh Mishra,9954524055
+Noida Institute of Management,Uttar Pradesh,Noida,North,Law,Private,10,6459,Dr. Suresh Jain,9831085354
+Aligarh Law College,Uttar Pradesh,Aligarh,North,MBA,Government,18,10030,Dr. Arun Gupta,9898378526
+"Apex Degree College, Baramulla",Jammu & Kashmir,Baramulla,North,Engineering,Private,17,9285,Dr. Vikram Dar,9885581115
+"Heritage Engineering College, Rohini",New Delhi,Rohini,North,Engineering,Management,25,1921,Dr. Prakash Bansal,9692392270
+"Pioneer Medical Academy, Pitampura",New Delhi,Pitampura,North,Arts/Science,Government,21,11184,Dr. Sanjeev Kumar,9594651613
+"Vision Medical Academy, Mathura",Uttar Pradesh,Mathura,North,MBA,Government,24,5430,Dr. Sanjay Dar,9682328602
+"Excellence College of Arts & Science, Kupwara",Jammu & Kashmir,Kupwara,North,Engineering,Management,7,4755,Dr. Vikram Patil,9492553616
+Anantnag Institute of Technology,Jammu & Kashmir,Anantnag,North,Engineering,Management,31,1321,Dr. Neha Singh,9552724172
+"Global Engineering College, Meerut",Uttar Pradesh,Meerut,North,Arts/Science,Private,10,10134,Dr. Rakesh Jain,9829101962
+"Nav Institute of Technology, Noida",Uttar Pradesh,Noida,East,Arts/Science,Management,24,4913,Dr. Vikram Bhat,9726731039
+"National Degree College, New Delhi",New Delhi,New Delhi,North,UG & PG,Management,15,4046,Dr. Anand Mishra,9695191709
+"Nav Medical Academy, Saket",New Delhi,Saket,North,Law,Private,8,4784,Dr. Ramesh Pandey,9832273077
+Baramulla Business School,Jammu & Kashmir,Baramulla,North,Medical,Management,18,3651,Dr. Sanjeev Kumar,9591008305
+Ghaziabad College of Arts & Science,Uttar Pradesh,Ghaziabad,North,Diploma,Government,16,5973,Dr. Geeta Mishra,9531511947
+Pitampura College of Arts & Science,New Delhi,Pitampura,North,Medical,Private,32,6538,Dr. Sanjeev Singh,9892808750
+"Vision Institute of Technology, Rohini",New Delhi,Rohini,North,Law,Management,33,3094,Dr. Anil Sharma,9747794796
+"Vision College of Arts & Science, Srinagar",Jammu & Kashmir,Srinagar,North,Medical,Private,8,4960,Dr. Ramesh Chauhan,9988648883
+"Heritage Institute of Technology, Dwarka",New Delhi,Dwarka,North,Arts/Science,Government,7,9935,Dr. Suresh Singh,9631778016
+"Royal Business School, Ghaziabad",Uttar Pradesh,Ghaziabad,North,UG & PG,Government,33,3038,Dr. Sunita Mishra,9517458801
+"Heritage Engineering College, Pulwama",Jammu & Kashmir,Pulwama,North,UG & PG,Management,27,9412,Dr. Neha Singh,9452482111
+"Apex Medical Academy, Gorakhpur",Uttar Pradesh,Gorakhpur,Central,Diploma,Private,12,7741,Dr. Sanjeev Kumar,9671111128
+Agra College of Arts & Science,Uttar Pradesh,Agra,North,Law,Management,13,11014,Dr. Kavita Dar,9725167104
+Ghaziabad Engineering College,Uttar Pradesh,Ghaziabad,Central,UG & PG,Government,17,942,Dr. Suresh Chauhan,9920424935
+"Sri Institute of Technology, Aligarh (334)",Uttar Pradesh,Aligarh,Central,Arts/Science,Management,12,1094,Dr. Sunita Patil,9410413233
+Anantnag Business School,Jammu & Kashmir,Anantnag,North,MBA,Management,35,7895,Dr. Arun Chauhan,9711647329
+Gorakhpur Institute of Management,Uttar Pradesh,Gorakhpur,East,UG & PG,Private,28,6259,Dr. Meena Singh,9835601703
+Aligarh Engineering College,Uttar Pradesh,Aligarh,Central,Medical,Government,12,9776,Dr. Prakash Jain,9940218243
+Meerut Engineering College,Uttar Pradesh,Meerut,North,Engineering,Management,31,2507,Dr. Sanjeev Kumar,9524558200
+Noida Institute of Management,Uttar Pradesh,Noida,East,Arts/Science,Government,6,10637,Dr. Neha Agarwal,9736577226
+Dwarka Institute of Technology,New Delhi,Dwarka,North,Medical,Private,30,11071,Dr. Meena Pandey,9510559933
+New Delhi Engineering College,New Delhi,New Delhi,North,Diploma,Private,5,11761,Dr. Anand Jain,9851925823
+"Nav Business School, Vasant Kunj",New Delhi,Vasant Kunj,North,UG & PG,Government,5,11123,Dr. Sunita Dar,9898627878
+Moradabad Degree College,Uttar Pradesh,Moradabad,Central,Arts/Science,Management,7,2641,Dr. Rakesh Kumar,9791685554
+Varanasi Business School,Uttar Pradesh,Varanasi,Central,Engineering,Government,29,11395,Dr. Rakesh Mishra,9910026610
+"Excellence Institute of Technology, Anantnag",Jammu & Kashmir,Anantnag,North,MBA,Private,21,11109,Dr. Sanjay Pandey,9977508951
+Gorakhpur Engineering College,Uttar Pradesh,Gorakhpur,East,Medical,Management,9,2817,Dr. Pooja Singh,9758928552
+"Premier Business School, Aligarh",Uttar Pradesh,Aligarh,Central,Law,Management,21,1695,Dr. Suresh Gupta,9955045524
+"Nav Medical Academy, Agra",Uttar Pradesh,Agra,North,UG & PG,Management,27,8529,Dr. Meena Bhat,9535714631
+"Apex Institute of Management, Kathua",Jammu & Kashmir,Kathua,North,Engineering,Private,4,4367,Dr. Meena Dar,9745490313
+"Sri Medical Academy, Prayagraj",Uttar Pradesh,Prayagraj,North,Diploma,Government,18,2911,Dr. Sunita Bhat,9640497347
+"Sunrise Business School, Meerut",Uttar Pradesh,Meerut,Central,Arts/Science,Government,33,3960,Dr. Pooja Gupta,9715041834
+"Premier Medical Academy, Noida",Uttar Pradesh,Noida,East,Engineering,Management,10,8191,Dr. Suresh Pandey,9679631746
+"Maha Engineering College, Jammu",Jammu & Kashmir,Jammu,North,Engineering,Private,34,3136,Dr. Sunita Chauhan,9924040457
+Saket Degree College,New Delhi,Saket,North,MBA,Private,14,6812,Dr. Pooja Sharma,9438574991
+Bareilly Degree College,Uttar Pradesh,Bareilly,North,UG & PG,Private,13,11225,Dr. Prakash Gupta,9968909244
+"Royal Institute of Management, Ghaziabad (356)",Uttar Pradesh,Ghaziabad,North,Diploma,Government,31,10884,Dr. Suresh Yadav,9443003541
+"Excellence Institute of Technology, Agra",Uttar Pradesh,Agra,Central,Arts/Science,Government,20,2350,Dr. Geeta Jain,9572035695
+Saket Engineering College,New Delhi,Saket,North,Medical,Government,19,2752,Dr. Rakesh Verma,9645414796
+Agra Medical Academy,Uttar Pradesh,Agra,North,Law,Government,11,7616,Dr. Sunita Singh,9720622479
+"Pioneer Degree College, Kathua",Jammu & Kashmir,Kathua,North,Medical,Private,22,10810,Dr. Meena Agarwal,9759263284
+Janakpuri Degree College,New Delhi,Janakpuri,North,MBA,Government,19,8404,Dr. Neha Kumar,9476165608
+"Heritage Law College, Janakpuri",New Delhi,Janakpuri,North,UG & PG,Management,28,11431,Dr. Sunita Verma,9729083994
+Noida Institute of Management,Uttar Pradesh,Noida,North,Arts/Science,Management,5,7966,Dr. Rakesh Khan,9935433742
+"Sunrise Law College, Agra",Uttar Pradesh,Agra,North,Medical,Private,9,8262,Dr. Arun Khan,9461708263
+Janakpuri Law College,New Delhi,Janakpuri,North,Arts/Science,Management,21,11928,Dr. Sanjeev Singh,9812680042
+Kanpur Business School,Uttar Pradesh,Kanpur,Central,MBA,Management,18,1986,Dr. Pooja Pandey,9460539703
+Agra Degree College,Uttar Pradesh,Agra,North,Law,Government,8,4533,Dr. Vikram Bansal,9935640685
+"National Law College, Bareilly",Uttar Pradesh,Bareilly,East,MBA,Management,10,8047,Dr. Vikram Pandey,9636606257
+"Apex Institute of Technology, Aligarh",Uttar Pradesh,Aligarh,North,UG & PG,Private,29,1224,Dr. Sunita Pandey,9443390227
+"Sri Law College, Mathura",Uttar Pradesh,Mathura,North,MBA,Management,14,11710,Dr. Vikram Dar,9781197976
+Jammu College of Arts & Science,Jammu & Kashmir,Jammu,North,MBA,Government,8,7200,Dr. Kavita Gupta,9684034087
+"Maha Law College, Mathura",Uttar Pradesh,Mathura,Central,MBA,Management,8,5048,Dr. Kavita Mishra,9426605907
+Noida Institute of Management,Uttar Pradesh,Noida,East,MBA,Government,34,1885,Dr. Rajesh Chauhan,9412040594
+New Delhi Institute of Technology,New Delhi,New Delhi,North,Arts/Science,Government,4,8197,Dr. Prakash Verma,9858895052
+"Heritage Degree College, Dwarka",New Delhi,Dwarka,North,Medical,Government,8,2415,Dr. Pooja Yadav,9984105093
+Dwarka Institute of Technology,New Delhi,Dwarka,North,MBA,Management,15,7724,Dr. Anil Chauhan,9668146943
+"National Institute of Management, Varanasi (377)",Uttar Pradesh,Varanasi,Central,Engineering,Government,17,5013,Dr. Rakesh Chauhan,9861760531
+"National College of Arts & Science, Vasant Kunj (378)",New Delhi,Vasant Kunj,North,Diploma,Private,28,8543,Dr. Rajesh Jain,9784536344
+Lucknow Business School,Uttar Pradesh,Lucknow,North,Arts/Science,Government,11,7587,Dr. Sunita Pandey,9948603318
+"Apex College of Arts & Science, Aligarh",Uttar Pradesh,Aligarh,Central,Arts/Science,Management,4,7717,Dr. Anand Pandey,9750784945
+Kanpur Business School,Uttar Pradesh,Kanpur,North,UG & PG,Government,8,8770,Dr. Vikram Chauhan,9642043208
+Mathura Institute of Technology,Uttar Pradesh,Mathura,North,UG & PG,Private,5,7339,Dr. Vikram Singh,9988769822
+Dwarka Law College,New Delhi,Dwarka,North,Engineering,Private,26,2418,Dr. Neha Patil,9720387649
+"Royal Law College, Gorakhpur",Uttar Pradesh,Gorakhpur,North,Diploma,Government,30,10883,Dr. Rakesh Patil,9949601526
+"Royal Medical Academy, Janakpuri",New Delhi,Janakpuri,North,MBA,Private,20,3382,Dr. Arun Verma,9675153705
+"National Engineering College, Rohini",New Delhi,Rohini,North,Diploma,Management,19,6259,Dr. Pooja Mishra,9427408767
+Kanpur Law College,Uttar Pradesh,Kanpur,North,Medical,Government,24,5346,Dr. Meena Bansal,9642365475
+"Maha College of Arts & Science, Mathura",Uttar Pradesh,Mathura,Central,Medical,Management,12,2880,Dr. Sanjay Agarwal,9883178794
+Kathua Engineering College,Jammu & Kashmir,Kathua,North,Medical,Management,21,4318,Dr. Rajesh Chauhan,9852299643
+"Excellence Medical Academy, Lucknow",Uttar Pradesh,Lucknow,East,Engineering,Management,32,6834,Dr. Rakesh Dar,9945122754
+Aligarh Institute of Management,Uttar Pradesh,Aligarh,North,MBA,Management,12,7626,Dr. Sanjeev Gupta,9854731561
+New Delhi Business School,New Delhi,New Delhi,North,Arts/Science,Government,12,1499,Dr. Rajesh Bhat,9548018635
+"Apex Engineering College, Prayagraj",Uttar Pradesh,Prayagraj,Central,Engineering,Private,27,5500,Dr. Rajesh Kumar,9752949624
+Noida Medical Academy,Uttar Pradesh,Noida,North,Arts/Science,Government,12,1786,Dr. Pooja Patil,9575787882
+"Vision Institute of Management, Janakpuri",New Delhi,Janakpuri,North,MBA,Management,20,11813,Dr. Ramesh Patil,9819522837
+Meerut Institute of Management,Uttar Pradesh,Meerut,East,Engineering,Management,35,1087,Dr. Suresh Sharma,9660492830
+Pulwama Degree College,Jammu & Kashmir,Pulwama,North,UG & PG,Government,26,6223,Dr. Anand Singh,9611408798
+"National College of Arts & Science, Agra",Uttar Pradesh,Agra,North,Law,Management,34,4215,Dr. Pooja Bansal,9542323022
+Varanasi Engineering College,Uttar Pradesh,Varanasi,North,UG & PG,Government,14,1164,Dr. Neha Bhat,9916341932
+Baramulla Institute of Management,Jammu & Kashmir,Baramulla,North,Law,Government,15,1953,Dr. Sanjeev Bansal,9921548072
+"Nav Engineering College, Moradabad",Uttar Pradesh,Moradabad,Central,UG & PG,Management,11,10200,Dr. Vikram Gupta,9893925225
+"Sunrise Medical Academy, Srinagar",Jammu & Kashmir,Srinagar,North,Arts/Science,Management,20,10345,Dr. Ramesh Bansal,9835243806
+Rohini Law College,New Delhi,Rohini,North,MBA,Private,35,8022,Dr. Sanjay Gupta,9667507321
+"Excellence Degree College, Anantnag",Jammu & Kashmir,Anantnag,North,Diploma,Management,34,6398,Dr. Meena Sharma,9430236817
+Lucknow College of Arts & Science,Uttar Pradesh,Lucknow,North,Medical,Private,16,11973,Dr. Kavita Mishra,9739164017
+Mathura Medical Academy,Uttar Pradesh,Mathura,Central,Arts/Science,Private,32,11896,Dr. Neha Kumar,9497622430
+Mathura Degree College,Uttar Pradesh,Mathura,North,Engineering,Government,24,3757,Dr. Rajesh Gupta,9897791942
+"Premier Law College, Noida",Uttar Pradesh,Noida,North,UG & PG,Government,18,8909,Dr. Prakash Pandey,9993826778
+"Global College of Arts & Science, Moradabad",Uttar Pradesh,Moradabad,Central,MBA,Private,17,8327,Dr. Sanjeev Jain,9771251956
+Meerut Medical Academy,Uttar Pradesh,Meerut,East,Diploma,Government,25,5215,Dr. Anil Bhat,9554811293
+Baramulla Institute of Management,Jammu & Kashmir,Baramulla,North,Medical,Management,25,9254,Dr. Rajesh Pandey,9835660066
+"National College of Arts & Science, Noida",Uttar Pradesh,Noida,North,Arts/Science,Private,4,10976,Dr. Amit Yadav,9461072030
+"Apex Institute of Technology, Jammu",Jammu & Kashmir,Jammu,North,Engineering,Government,15,5489,Dr. Sanjeev Khan,9772835581
+"Pioneer Business School, Agra",Uttar Pradesh,Agra,Central,Engineering,Government,5,11988,Dr. Kavita Verma,9955163528
+"Heritage Medical Academy, Agra",Uttar Pradesh,Agra,North,UG & PG,Government,8,10688,Dr. Sanjeev Gupta,9450151408
+New Delhi Engineering College,New Delhi,New Delhi,North,Diploma,Private,30,9657,Dr. Anil Bansal,9678179125
+Agra Institute of Management,Uttar Pradesh,Agra,East,Arts/Science,Private,16,10503,Dr. Prakash Yadav,9439413341
+"Global College of Arts & Science, Moradabad",Uttar Pradesh,Moradabad,North,Diploma,Management,4,6641,Dr. Amit Pandey,9479754144
+"Premier Business School, Prayagraj",Uttar Pradesh,Prayagraj,Central,Arts/Science,Management,16,2382,Dr. Sunita Singh,9676116856
+Bareilly Degree College,Uttar Pradesh,Bareilly,Central,UG & PG,Management,14,11321,Dr. Sanjeev Agarwal,9682000969
+Moradabad Law College,Uttar Pradesh,Moradabad,North,Engineering,Private,22,7586,Dr. Pooja Bansal,9863167361
+Mathura Law College,Uttar Pradesh,Mathura,North,Diploma,Government,29,5278,Dr. Suresh Pandey,9663351836
+Aligarh Law College,Uttar Pradesh,Aligarh,East,UG & PG,Private,15,3521,Dr. Kavita Jain,9428580791
+"Premier Medical Academy, New Delhi",New Delhi,New Delhi,North,Law,Government,16,2872,Dr. Rakesh Bhat,9442174725
+Lucknow Business School,Uttar Pradesh,Lucknow,North,UG & PG,Private,30,4748,Dr. Rajesh Verma,9437499701
+"Maha Institute of Management, Vasant Kunj",New Delhi,Vasant Kunj,North,Diploma,Management,10,1776,Dr. Geeta Dar,9411398195
+Moradabad Law College,Uttar Pradesh,Moradabad,North,MBA,Private,26,2736,Dr. Meena Bansal,9776131039
+Noida Institute of Management,Uttar Pradesh,Noida,East,Medical,Private,16,10420,Dr. Anand Sharma,9782896324
+Bareilly Degree College,Uttar Pradesh,Bareilly,North,Diploma,Management,31,5453,Dr. Pooja Kumar,9945003250
+Lucknow Institute of Technology,Uttar Pradesh,Lucknow,Central,Law,Private,35,7979,Dr. Anil Sharma,9726436636
+Bareilly College of Arts & Science,Uttar Pradesh,Bareilly,North,UG & PG,Management,28,8243,Dr. Rajesh Singh,9728270330
+Ghaziabad Law College,Uttar Pradesh,Ghaziabad,North,Diploma,Government,24,3464,Dr. Pooja Chauhan,9462665940
+Bareilly Engineering College,Uttar Pradesh,Bareilly,East,MBA,Private,30,9128,Dr. Sunita Kumar,9871929946
+Aligarh Institute of Technology (434),Uttar Pradesh,Aligarh,North,Engineering,Private,11,11308,Dr. Pooja Verma,9696768384
+Pulwama Institute of Management,Jammu & Kashmir,Pulwama,North,UG & PG,Government,4,11583,Dr. Rakesh Dar,9542043283
+Janakpuri Institute of Technology,New Delhi,Janakpuri,North,MBA,Management,6,3302,Dr. Pooja Singh,9677278929
+"Sunrise Degree College, Vasant Kunj",New Delhi,Vasant Kunj,North,Law,Management,11,7386,Dr. Kavita Yadav,9891340024
+Kanpur Institute of Technology,Uttar Pradesh,Kanpur,North,UG & PG,Government,23,6064,Dr. Pooja Dar,9815626600
+Mathura Institute of Management,Uttar Pradesh,Mathura,East,MBA,Private,21,8733,Dr. Kavita Jain,9757485849
+"Heritage Degree College, Mathura",Uttar Pradesh,Mathura,Central,MBA,Government,14,6550,Dr. Neha Gupta,9916302325
+"Heritage Business School, Varanasi",Uttar Pradesh,Varanasi,East,UG & PG,Government,13,10542,Dr. Rajesh Pandey,9785804082
+Kanpur Institute of Technology,Uttar Pradesh,Kanpur,East,Diploma,Private,33,11209,Dr. Meena Singh,9650020786
+"Apex Institute of Management, Anantnag",Jammu & Kashmir,Anantnag,North,MBA,Private,26,2963,Dr. Amit Bansal,9592163460
+"Excellence Engineering College, Noida",Uttar Pradesh,Noida,Central,Engineering,Management,33,6820,Dr. Meena Singh,9820617010
+Baramulla Institute of Technology,Jammu & Kashmir,Baramulla,North,Engineering,Management,13,1426,Dr. Sanjay Agarwal,9563458990
+"Nav Business School, Kathua",Jammu & Kashmir,Kathua,North,Arts/Science,Private,16,1823,Dr. Sanjeev Chauhan,9685648968
+Meerut Medical Academy,Uttar Pradesh,Meerut,Central,Medical,Management,10,2729,Dr. Arun Singh,9944198936
+Aligarh Degree College,Uttar Pradesh,Aligarh,North,UG & PG,Government,17,3320,Dr. Vikram Yadav,9464540396
+Ghaziabad Institute of Technology,Uttar Pradesh,Ghaziabad,East,Diploma,Management,17,10736,Dr. Pooja Bansal,9754730893
+"Sri Law College, Dwarka",New Delhi,Dwarka,North,Diploma,Management,34,11504,Dr. Pooja Singh,9932503534
+"Nav Law College, Janakpuri",New Delhi,Janakpuri,North,Medical,Government,14,11090,Dr. Rakesh Khan,9743510419
+Varanasi College of Arts & Science,Uttar Pradesh,Varanasi,North,Law,Management,21,11891,Dr. Anil Verma,9597820387
+Srinagar Business School,Jammu & Kashmir,Srinagar,North,Engineering,Private,20,6130,Dr. Amit Verma,9924073593
+"Vision Medical Academy, Mathura",Uttar Pradesh,Mathura,North,Diploma,Management,24,6134,Dr. Amit Gupta,9964076190
+Mathura Engineering College,Uttar Pradesh,Mathura,North,Diploma,Management,30,906,Dr. Anil Sharma,9646184238
+Karol Bagh Business School,New Delhi,Karol Bagh,North,Medical,Management,5,6650,Dr. Arun Kumar,9438820553
+"Sunrise College of Arts & Science, Agra",Uttar Pradesh,Agra,North,Diploma,Management,20,8480,Dr. Anil Chauhan,9487493297
+"Nav Engineering College, Varanasi",Uttar Pradesh,Varanasi,North,Arts/Science,Government,13,10540,Dr. Sanjay Mishra,9562455788
+Bareilly College of Arts & Science,Uttar Pradesh,Bareilly,North,Arts/Science,Government,6,6364,Dr. Kavita Bhat,9852366331
+"Heritage College of Arts & Science, Kupwara",Jammu & Kashmir,Kupwara,North,Arts/Science,Private,21,4036,Dr. Anil Pandey,9489818733
+Varanasi Law College,Uttar Pradesh,Varanasi,North,Engineering,Private,13,807,Dr. Pooja Agarwal,9516648322
+"Sri Institute of Management, Lucknow",Uttar Pradesh,Lucknow,North,Medical,Management,17,7464,Dr. Anil Chauhan,9455225534
+"Apex Degree College, Anantnag",Jammu & Kashmir,Anantnag,North,Law,Government,31,5689,Dr. Sanjeev Khan,9640985430
+"Pioneer Institute of Management, Mathura",Uttar Pradesh,Mathura,Central,UG & PG,Government,13,9357,Dr. Pooja Yadav,9577929888
+"Sri Business School, Pulwama",Jammu & Kashmir,Pulwama,North,UG & PG,Private,17,2506,Dr. Anand Kumar,9856227558
+"National College of Arts & Science, Saket",New Delhi,Saket,North,Law,Management,18,9509,Dr. Pooja Mishra,9412123461
+"Royal Engineering College, Lucknow",Uttar Pradesh,Lucknow,North,UG & PG,Management,11,3992,Dr. Geeta Gupta,9753857892
+"Excellence College of Arts & Science, Varanasi",Uttar Pradesh,Varanasi,North,Diploma,Government,19,4418,Dr. Amit Agarwal,9863844969
+Baramulla Law College,Jammu & Kashmir,Baramulla,North,Engineering,Government,7,8711,Dr. Sanjay Bhat,9556765685
+Lucknow College of Arts & Science,Uttar Pradesh,Lucknow,North,Diploma,Management,33,1547,Dr. Sanjeev Khan,9556859558
+Noida Medical Academy,Uttar Pradesh,Noida,East,Law,Private,5,5462,Dr. Geeta Khan,9853375727
+Aligarh Medical Academy,Uttar Pradesh,Aligarh,North,UG & PG,Government,17,3083,Dr. Pooja Dar,9586969030
+Baramulla Law College,Jammu & Kashmir,Baramulla,North,Arts/Science,Management,30,1622,Dr. Prakash Bansal,9544450247
+Varanasi Law College,Uttar Pradesh,Varanasi,North,Law,Management,5,923,Dr. Suresh Yadav,9448657818
+Moradabad College of Arts & Science,Uttar Pradesh,Moradabad,East,Engineering,Management,12,8406,Dr. Anil Verma,9720979903
+"National Law College, Moradabad",Uttar Pradesh,Moradabad,North,Law,Government,18,10686,Dr. Anand Dar,9478404197
+Kanpur College of Arts & Science,Uttar Pradesh,Kanpur,East,MBA,Management,18,2693,Dr. Ramesh Pandey,9795608943
+"Nav Engineering College, Prayagraj",Uttar Pradesh,Prayagraj,Central,Arts/Science,Government,20,3871,Dr. Meena Agarwal,9797896805
+Baramulla Engineering College,Jammu & Kashmir,Baramulla,North,Arts/Science,Government,20,9193,Dr. Amit Sharma,9597095035
+"Sri Law College, Jammu (480)",Jammu & Kashmir,Jammu,North,Diploma,Government,23,9124,Dr. Meena Bansal,9840123704
+Saket Business School,New Delhi,Saket,North,UG & PG,Government,33,5357,Dr. Suresh Kumar,9642411219
+Kathua Institute of Technology,Jammu & Kashmir,Kathua,North,MBA,Management,26,7490,Dr. Arun Agarwal,9634858239
+Janakpuri Degree College,New Delhi,Janakpuri,North,Diploma,Management,21,918,Dr. Sanjeev Dar,9641974331
+Kanpur Institute of Management,Uttar Pradesh,Kanpur,North,UG & PG,Government,20,7563,Dr. Ramesh Dar,9969844164
+"Heritage Business School, Meerut",Uttar Pradesh,Meerut,Central,Engineering,Government,27,3402,Dr. Sunita Kumar,9938120114
+"Sunrise Medical Academy, Prayagraj",Uttar Pradesh,Prayagraj,North,Law,Management,22,7669,Dr. Pooja Jain,9889142381
+Jammu College of Arts & Science,Jammu & Kashmir,Jammu,North,Diploma,Government,26,6188,Dr. Sanjay Yadav,9968514051
+Varanasi Institute of Management,Uttar Pradesh,Varanasi,East,Medical,Management,35,6900,Dr. Suresh Bhat,9875877202
+"Sunrise Medical Academy, Saket",New Delhi,Saket,North,Arts/Science,Management,29,1647,Dr. Suresh Pandey,9724579722
+Aligarh Engineering College (490),Uttar Pradesh,Aligarh,North,UG & PG,Private,20,2576,Dr. Sanjeev Agarwal,9458123313
+"Royal Degree College, Janakpuri",New Delhi,Janakpuri,North,Engineering,Private,13,3251,Dr. Anil Kumar,9677881742
+"Royal Business School, Pitampura",New Delhi,Pitampura,North,UG & PG,Private,12,10915,Dr. Geeta Pandey,9661340013
+Agra Institute of Technology,Uttar Pradesh,Agra,Central,UG & PG,Management,14,10441,Dr. Meena Gupta,9861673366
+"Premier Engineering College, Lucknow",Uttar Pradesh,Lucknow,North,UG & PG,Private,28,3678,Dr. Anil Bhat,9999324543
+Aligarh Business School,Uttar Pradesh,Aligarh,Central,MBA,Government,29,4810,Dr. Ramesh Chauhan,9994618839
+Pulwama Institute of Management,Jammu & Kashmir,Pulwama,North,Diploma,Government,11,10414,Dr. Pooja Patil,9545565282
+Pulwama Institute of Management,Jammu & Kashmir,Pulwama,North,Law,Private,27,2782,Dr. Anil Khan,9745020748
+Meerut Institute of Technology (498),Uttar Pradesh,Meerut,Central,Diploma,Government,7,9280,Dr. Neha Verma,9537553100
+"Maha Medical Academy, Srinagar",Jammu & Kashmir,Srinagar,North,UG & PG,Government,7,2369,Dr. Geeta Agarwal,9563094598
+"Global Business School, Agra",Uttar Pradesh,Agra,Central,Law,Management,20,2802,Dr. Sanjay Gupta,9417636380
+Anantnag Institute of Management,Jammu & Kashmir,Anantnag,North,Law,Management,18,6349,Dr. Anil Bhat,9916104103
+"Maha Engineering College, Prayagraj",Uttar Pradesh,Prayagraj,North,Diploma,Management,23,4824,Dr. Sunita Pandey,9412831705
+Gorakhpur Degree College (503),Uttar Pradesh,Gorakhpur,North,Arts/Science,Government,14,8069,Dr. Vikram Singh,9859858601
+Kanpur Medical Academy,Uttar Pradesh,Kanpur,North,Law,Private,25,6819,Dr. Prakash Singh,9984487208
+"Excellence Law College, Ghaziabad (505)",Uttar Pradesh,Ghaziabad,Central,Diploma,Management,23,3803,Dr. Rajesh Bansal,9443916014
+Moradabad Engineering College,Uttar Pradesh,Moradabad,North,Law,Government,19,2782,Dr. Amit Agarwal,9851331707
+"Nav Institute of Technology, Prayagraj",Uttar Pradesh,Prayagraj,North,Arts/Science,Government,17,9614,Dr. Arun Patil,9415485286
+Gorakhpur College of Arts & Science,Uttar Pradesh,Gorakhpur,North,Diploma,Management,12,6466,Dr. Anil Yadav,9432865685
+"Vision Business School, Kupwara",Jammu & Kashmir,Kupwara,North,MBA,Management,33,4747,Dr. Prakash Yadav,9539567680
+Anantnag Law College,Jammu & Kashmir,Anantnag,North,MBA,Private,33,5576,Dr. Anand Mishra,9637390685
+"Royal Medical Academy, Udhampur",Jammu & Kashmir,Udhampur,North,Diploma,Private,18,9669,Dr. Pooja Jain,9590421384
+Kathua Institute of Management,Jammu & Kashmir,Kathua,North,Engineering,Government,15,871,Dr. Meena Dar,9765240416
+"Pioneer Degree College, Pitampura",New Delhi,Pitampura,North,Diploma,Private,5,11240,Dr. Neha Kumar,9631085822
+"Sri Institute of Management, Gorakhpur",Uttar Pradesh,Gorakhpur,Central,Arts/Science,Private,15,11074,Dr. Ramesh Agarwal,9675598891
+Udhampur Law College,Jammu & Kashmir,Udhampur,North,Law,Private,35,7939,Dr. Arun Yadav,9866937841
+Noida Law College (516),Uttar Pradesh,Noida,East,MBA,Private,12,9156,Dr. Amit Bansal,9895880296
+"Royal Engineering College, Anantnag",Jammu & Kashmir,Anantnag,North,MBA,Government,4,3294,Dr. Meena Bhat,9933355791
+"Sunrise College of Arts & Science, Jammu (518)",Jammu & Kashmir,Jammu,North,UG & PG,Private,20,3308,Dr. Meena Patil,9828880066
+"Royal Degree College, Prayagraj",Uttar Pradesh,Prayagraj,Central,Diploma,Private,25,10117,Dr. Geeta Mishra,9653949523
+Lucknow Business School,Uttar Pradesh,Lucknow,Central,Engineering,Management,6,5020,Dr. Kavita Chauhan,9649077639
+"Global Engineering College, Varanasi",Uttar Pradesh,Varanasi,North,Engineering,Management,17,2811,Dr. Amit Dar,9833501821
+Mathura Medical Academy,Uttar Pradesh,Mathura,North,UG & PG,Management,31,6597,Dr. Sunita Patil,9790259070
+Mathura College of Arts & Science,Uttar Pradesh,Mathura,East,UG & PG,Government,13,7912,Dr. Suresh Mishra,9854551762
+Saket Business School,New Delhi,Saket,North,Arts/Science,Government,31,7063,Dr. Suresh Chauhan,9591605374
+Bareilly Engineering College,Uttar Pradesh,Bareilly,Central,Medical,Private,19,1186,Dr. Vikram Jain,9862088369
+"Global College of Arts & Science, Karol Bagh",New Delhi,Karol Bagh,North,Medical,Private,5,2887,Dr. Rajesh Agarwal,9816001468
+"Excellence Law College, Gorakhpur",Uttar Pradesh,Gorakhpur,Central,Medical,Private,27,8273,Dr. Meena Chauhan,9461648703
+Kanpur Degree College,Uttar Pradesh,Kanpur,North,Arts/Science,Government,19,7123,Dr. Neha Kumar,9850250817
+"Sri Business School, Baramulla",Jammu & Kashmir,Baramulla,North,MBA,Private,25,9614,Dr. Sanjeev Kumar,9551366115
+"Royal Law College, Udhampur",Jammu & Kashmir,Udhampur,North,Diploma,Management,28,3410,Dr. Anil Bhat,9481742035
+"Premier Medical Academy, Dwarka",New Delhi,Dwarka,North,Medical,Government,32,1341,Dr. Rajesh Patil,9535648191
+Lucknow College of Arts & Science (532),Uttar Pradesh,Lucknow,Central,MBA,Government,15,6077,Dr. Anil Sharma,9614813677
+Srinagar Engineering College,Jammu & Kashmir,Srinagar,North,Medical,Government,27,11111,Dr. Sanjay Bansal,9535656850
+Agra Institute of Management,Uttar Pradesh,Agra,Central,Law,Management,5,2181,Dr. Rajesh Patil,9666338447
+"Premier Institute of Management, Kanpur",Uttar Pradesh,Kanpur,Central,MBA,Management,11,8510,Dr. Rajesh Verma,9934527813
+"Sunrise Institute of Management, Kathua",Jammu & Kashmir,Kathua,North,UG & PG,Management,26,8035,Dr. Pooja Yadav,9918686083
+"Sunrise Degree College, Jammu",Jammu & Kashmir,Jammu,North,Arts/Science,Private,10,5458,Dr. Anil Agarwal,9647032629
+"Nav Engineering College, Udhampur",Jammu & Kashmir,Udhampur,North,Law,Private,34,9983,Dr. Neha Verma,9413860926
+"Vision Law College, Pitampura",New Delhi,Pitampura,North,MBA,Management,34,10018,Dr. Prakash Bansal,9446892457
+"Pioneer College of Arts & Science, Kathua",Jammu & Kashmir,Kathua,North,Engineering,Government,24,907,Dr. Geeta Dar,9779091195
+"Sunrise Institute of Technology, Kupwara",Jammu & Kashmir,Kupwara,North,Engineering,Private,4,10200,Dr. Sanjeev Patil,9819321667
+"Maha Law College, Aligarh",Uttar Pradesh,Aligarh,North,UG & PG,Government,27,4166,Dr. Pooja Jain,9681420198
+Prayagraj Institute of Management,Uttar Pradesh,Prayagraj,North,Engineering,Management,9,6178,Dr. Rakesh Gupta,9555203162
+Bareilly Business School,Uttar Pradesh,Bareilly,Central,Engineering,Private,14,6881,Dr. Sanjay Mishra,9729914874
+"Nav College of Arts & Science, Moradabad",Uttar Pradesh,Moradabad,North,Arts/Science,Government,14,3144,Dr. Neha Agarwal,9572383431
+Janakpuri Degree College,New Delhi,Janakpuri,North,Arts/Science,Management,26,6117,Dr. Rajesh Pandey,9678375330
+"Heritage Law College, Rohini",New Delhi,Rohini,North,Law,Management,29,5000,Dr. Vikram Dar,9690101798
+"Royal Institute of Management, Prayagraj",Uttar Pradesh,Prayagraj,North,Law,Management,15,8310,Dr. Sanjay Mishra,9728018407
+"Heritage Degree College, Varanasi",Uttar Pradesh,Varanasi,North,UG & PG,Private,13,3945,Dr. Suresh Patil,9771128392
+"Premier Engineering College, Kupwara",Jammu & Kashmir,Kupwara,North,Medical,Private,4,5946,Dr. Sunita Yadav,9964372907
+"Nav Engineering College, Gorakhpur",Uttar Pradesh,Gorakhpur,East,Medical,Private,25,1416,Dr. Arun Mishra,9538989989
+"Global College of Arts & Science, Udhampur",Jammu & Kashmir,Udhampur,North,Diploma,Private,11,7188,Dr. Arun Sharma,9971093644
+Bareilly Institute of Management,Uttar Pradesh,Bareilly,Central,Diploma,Private,26,3364,Dr. Anil Verma,9810119488
+"Premier Engineering College, Mathura",Uttar Pradesh,Mathura,East,Arts/Science,Management,25,7030,Dr. Neha Chauhan,9762201224
+"Apex Institute of Management, Pitampura",New Delhi,Pitampura,North,Diploma,Government,24,11690,Dr. Pooja Chauhan,9882007268
+"Global Medical Academy, Janakpuri",New Delhi,Janakpuri,North,Arts/Science,Private,19,3365,Dr. Geeta Sharma,9614196120
+"Apex Law College, Noida",Uttar Pradesh,Noida,North,Diploma,Management,31,6887,Dr. Anil Gupta,9867701703
+"Excellence Medical Academy, Jammu",Jammu & Kashmir,Jammu,North,Law,Management,30,11115,Dr. Sunita Mishra,9731311148
+Varanasi Institute of Technology,Uttar Pradesh,Varanasi,North,Law,Private,18,7018,Dr. Arun Sharma,9999194686
+Anantnag Institute of Management,Jammu & Kashmir,Anantnag,North,Arts/Science,Private,26,4707,Dr. Anil Verma,9853924226
+Saket Business School,New Delhi,Saket,North,Arts/Science,Private,32,2284,Dr. Rakesh Pandey,9827401203
+Pulwama College of Arts & Science,Jammu & Kashmir,Pulwama,North,Diploma,Government,22,2597,Dr. Anil Patil,9726724271
+Bareilly Medical Academy,Uttar Pradesh,Bareilly,Central,Law,Private,20,6789,Dr. Vikram Mishra,9596559550
+"Sunrise Law College, Janakpuri",New Delhi,Janakpuri,North,MBA,Management,23,9232,Dr. Arun Bhat,9551807326
+"Premier Engineering College, Dwarka",New Delhi,Dwarka,North,Medical,Management,13,11505,Dr. Meena Patil,9861593794
+Lucknow Business School,Uttar Pradesh,Lucknow,East,Medical,Private,15,8791,Dr. Rajesh Chauhan,9629237422
+"Royal Engineering College, Janakpuri (567)",New Delhi,Janakpuri,North,Medical,Private,34,8429,Dr. Pooja Kumar,9854368584
+"Royal Degree College, Janakpuri",New Delhi,Janakpuri,North,Law,Private,19,11659,Dr. Vikram Verma,9951027712
+Srinagar Institute of Technology,Jammu & Kashmir,Srinagar,North,UG & PG,Government,19,7911,Dr. Vikram Bansal,9921460385
+Saket Engineering College,New Delhi,Saket,North,Diploma,Private,15,4352,Dr. Sunita Yadav,9766901872
+Moradabad College of Arts & Science (571),Uttar Pradesh,Moradabad,Central,Engineering,Private,30,6425,Dr. Anil Verma,9697349598
+"Pioneer Medical Academy, Moradabad",Uttar Pradesh,Moradabad,East,UG & PG,Government,35,8733,Dr. Anil Verma,9422616084
+Kanpur College of Arts & Science,Uttar Pradesh,Kanpur,North,UG & PG,Private,20,1996,Dr. Kavita Yadav,9488567501
+"Global Engineering College, Lucknow",Uttar Pradesh,Lucknow,North,Arts/Science,Management,14,4813,Dr. Anil Bansal,9860817474
+Lucknow Law College,Uttar Pradesh,Lucknow,East,Law,Government,21,7399,Dr. Geeta Sharma,9650860645
+"Royal Degree College, Noida",Uttar Pradesh,Noida,North,UG & PG,Government,10,2347,Dr. Neha Pandey,9713714045
+"Sri College of Arts & Science, Noida",Uttar Pradesh,Noida,Central,UG & PG,Private,22,1012,Dr. Vikram Verma,9819721319
+"Sunrise Institute of Management, Ghaziabad",Uttar Pradesh,Ghaziabad,Central,Arts/Science,Private,10,10214,Dr. Meena Jain,9659202132
+Noida College of Arts & Science,Uttar Pradesh,Noida,Central,Arts/Science,Private,25,1959,Dr. Suresh Chauhan,9635947283
+Jammu Institute of Management,Jammu & Kashmir,Jammu,North,Law,Private,24,7414,Dr. Sanjay Patil,9449358638
+Janakpuri Medical Academy,New Delhi,Janakpuri,North,Law,Government,29,7726,Dr. Geeta Agarwal,9443938476
+Kanpur Institute of Technology,Uttar Pradesh,Kanpur,East,UG & PG,Management,24,7980,Dr. Ramesh Gupta,9731947297
+Mathura College of Arts & Science,Uttar Pradesh,Mathura,Central,Law,Private,16,3902,Dr. Vikram Kumar,9642929896
+"Heritage Medical Academy, Mathura",Uttar Pradesh,Mathura,North,Medical,Private,13,1091,Dr. Arun Khan,9437900773
+"Premier Institute of Technology, Rohini",New Delhi,Rohini,North,Arts/Science,Private,25,6069,Dr. Rakesh Gupta,9499381907
+Srinagar Law College,Jammu & Kashmir,Srinagar,North,MBA,Private,7,4370,Dr. Rakesh Patil,9912807108
+Anantnag Degree College,Jammu & Kashmir,Anantnag,North,Engineering,Government,32,5201,Dr. Geeta Patil,9580428000
+"Vision Medical Academy, New Delhi",New Delhi,New Delhi,North,MBA,Management,21,6353,Dr. Ramesh Dar,9867713094
+"Nav College of Arts & Science, Aligarh",Uttar Pradesh,Aligarh,East,Medical,Management,21,10004,Dr. Prakash Patil,9670701664
+Udhampur Engineering College,Jammu & Kashmir,Udhampur,North,Diploma,Government,30,2684,Dr. Sanjeev Chauhan,9519773974
+"Apex Medical Academy, Dwarka",New Delhi,Dwarka,North,Arts/Science,Private,11,1279,Dr. Anand Bhat,9437673278
+Moradabad Degree College,Uttar Pradesh,Moradabad,North,Law,Private,5,7379,Dr. Pooja Sharma,9944305373
+"Maha Law College, Varanasi",Uttar Pradesh,Varanasi,North,MBA,Management,15,11903,Dr. Meena Agarwal,9851077043
+Aligarh Business School,Uttar Pradesh,Aligarh,North,Arts/Science,Management,26,8400,Dr. Sanjay Yadav,9627812101
+"Sunrise Institute of Management, Mathura",Uttar Pradesh,Mathura,East,Diploma,Private,23,6331,Dr. Neha Agarwal,9638603571
+Noida Engineering College,Uttar Pradesh,Noida,Central,Law,Management,19,3763,Dr. Ramesh Bhat,9877888706
+"Sunrise Degree College, Moradabad (597)",Uttar Pradesh,Moradabad,North,MBA,Government,30,8629,Dr. Sunita Khan,9813280397
+"Heritage Medical Academy, Varanasi",Uttar Pradesh,Varanasi,North,Arts/Science,Government,34,11397,Dr. Kavita Bansal,9878493674
+Lucknow Medical Academy,Uttar Pradesh,Lucknow,North,UG & PG,Private,32,1325,Dr. Pooja Verma,9790331077
+"Global Medical Academy, Varanasi",Uttar Pradesh,Varanasi,North,MBA,Government,21,11315,Dr. Sanjay Bhat,9430714103
+Kanpur Engineering College,Uttar Pradesh,Kanpur,Central,Engineering,Management,33,5084,Dr. Geeta Agarwal,9768666150
+Mathura Institute of Technology,Uttar Pradesh,Mathura,Central,Arts/Science,Private,24,3759,Dr. Prakash Gupta,9745903467
+"Sri Institute of Technology, Noida",Uttar Pradesh,Noida,East,MBA,Private,14,860,Dr. Pooja Mishra,9420755055
+"Global Business School, Agra",Uttar Pradesh,Agra,Central,UG & PG,Management,6,998,Dr. Rakesh Jain,9748812576
+Moradabad Law College,Uttar Pradesh,Moradabad,North,Arts/Science,Private,22,2554,Dr. Pooja Chauhan,9641049305
+Kanpur Institute of Management,Uttar Pradesh,Kanpur,Central,UG & PG,Management,22,9255,Dr. Pooja Sharma,9920910907
+Kupwara Institute of Technology,Jammu & Kashmir,Kupwara,North,MBA,Management,26,1077,Dr. Ramesh Sharma,9632902038
+"Heritage Institute of Management, Mathura",Uttar Pradesh,Mathura,North,MBA,Management,21,5036,Dr. Rajesh Agarwal,9776808173
+"Sri Institute of Management, Rohini",New Delhi,Rohini,North,Arts/Science,Private,31,4812,Dr. Sanjeev Yadav,9481692825
