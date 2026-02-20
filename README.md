@@ -1,41 +1,32 @@
-#!/bin/bash
+## Higher Education Analytics Dashboard
 
-# Define the filename
-README_FILE="README.md"
+📌 Project Overview
+The Higher Education Analytics Dashboard is a comprehensive Power BI solution designed to provide stakeholders with actionable insights into the higher education landscape. This project analyzes a dataset of over 600 colleges, 11,000+ courses, and 4 million students to identify trends in regional distribution, management effectiveness, and student enrollment patterns.
 
-# Write content to README.md
-cat <<EOF > $README_FILE
-# 🎓 Higher Education Analytics Dashboard
+🚀 Key Features
+The report is organized into four strategic views:
+* Main Dashboard: High-level KPIs including Total Colleges, Courses, Students, and Average Student Enrollment. Includes breakdowns by College Type (Engineering, Law, Medical, etc.) and Region.
+* Geographical Overview: Spatial analysis of college distribution across states like Uttar Pradesh, Jammu & Kashmir, and New Delhi, featuring interactive map visualizations.
+* Management Overview: A deep dive into the governance of institutions, comparing Private, Government, and Management-run colleges across different regions.
+* Student Strength & Course Count: Granular analysis of student capacity by city and college type, alongside a directory of college principals and contact details.
 
-> **Note:** GitHub cannot preview .pbix files directly. Please refer to the screenshots below for a visual overview of the dashboard.
+📊 Key Insights (KPIs)
+  Total Colleges: 609
+  Total Courses: 11,754
+  Total Students: 4 Million
+  Average Students per College: 6.50K
+  Top Region: North (424 Colleges)
 
-## 📊 Dashboard Previews
-![Main Dashboard](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Screenshot%202026-02-20%20191436.png?raw=true)
-*Main Dashboard: Overview of KPIs and Regional distribution.*
+🛠️ Tools Used
+  Power BI Desktop: For data modeling and visualization.
+  Power Query: For data cleaning and transformation.
+  DAX (Data Analysis Expressions): For calculating custom measures and KPIs.
 
-![Geographical Overview](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/Screenshot%202026-02-20%20191512.jpg?raw=true)
-*Geographical Overview: Mapping college density across states.*
+📂 Project Structure
+student management.pbix: The primary Power BI project file containing the data model and visualizations.
+Screenshots/: Folder containing visuals of the four main dashboard pages.
 
-## 📌 Project Overview
-This Power BI project provides a deep dive into the higher education sector, analyzing over **4 Million students** across **609 colleges**[cite: 4, 5].
-
-## 🚀 Key Insights
-* **Total Colleges:** 609 institutions analyzed[cite: 4].
-* **Total Courses:** 11,754 diverse programs[cite: 4].
-* **Student Enrollment:** 4 Million total students[cite: 4].
-* **Regional Leader:** The North region holds the highest count with 424 colleges[cite: 4].
-* **Management Split:** The institutions are distributed between Government (209), Private (191), and Management (209) sectors[cite: 11].
-
-## 🛠️ Technical Setup
-* **Core Model:** student management.pbix[cite: 1].
-* **Themes Used:** CY25SU11.json and Storm.json for visual styling[cite: 3, 4].
-* **Primary Features:** DAX-driven KPIs, interactive map visuals, and city-wise student strength analysis[cite: 4, 11].
-
----
-### 📂 How to Open
-1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-2. Clone this repository.
-3. Open \`student management.pbix\` to interact with the data.
-EOF
-
-echo "$README_FILE has been generated with image links!"
+📖 How to Use
+Download the student management.pbix file.
+Open the file using Power BI Desktop.
+Interact with the slicers (City, Region, Management Type) to filter data across all dashboard pages.
